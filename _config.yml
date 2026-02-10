@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Judy's CSCI 103 Website
 
 # Your name to show in the footer
-author: Some Person
+author: Judy!
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Williams CSCI: "https://csci.williams.edu/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
