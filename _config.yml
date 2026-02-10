@@ -52,19 +52,19 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  #facebook: deanattali
+  github: judy-bw
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: judy_weintraub_
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -82,7 +82,7 @@ social-network-links:
 #  gitlab: yourname
 #  itchio: yourname
 #  untappd: yourname
-#  strava: youruserid
+   strava: Judy Weintraub
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -94,15 +94,15 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  #twitter: true
+  #facebook: true
   linkedin: true
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://www.nytimes.com/2019/10/08/style/can-a-jean-jacket-revive-the-wearable.html"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,17 +136,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FCBFB7"
+page-col: "#febfbf"
 text-col: "#33261D"
-link-col: "#AFBBF2"
-hover-col: "#9B489B"
-navbar-col: "#E4FDE1"
+link-col: "#e85d75"
+hover-col: "#D81159"
+navbar-col: "#FEBFBF"
 navbar-text-col: "#33261D"
-navbar-border-col: "#9b489b"
-footer-col: "#D0FFD6"
+navbar-border-col: "#FEBFBF"
+footer-col: "#EDC79B"
 footer-text-col: "#33261D"
-footer-link-col: "#AFBBF2"
-footer-hover-col: "#9B489B"
+footer-link-col: "#e85d75"
+footer-hover-col: "#D81159"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
