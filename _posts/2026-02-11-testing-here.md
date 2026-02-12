@@ -9,7 +9,7 @@ author: Judy
 ---
 
 {: .box-success}
-This is post to show you why I decided to take Electronic Textiles!
+This is a post to show you why I decided to take Electronic Textiles!
 
 My name is Judy Weintraub and I'm a freshman. I'm a potential **Art History** or **English** major! I do not have much sewing experience, but over the summer I made an embroidery sampler and turned it into a pillow! Here's a photo:
 
