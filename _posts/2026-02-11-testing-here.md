@@ -20,8 +20,3 @@ I do not have any programming experience, except for one Python class in 9th gra
 In this class, I hope to learn how to make textiles light up!
 
 One boring fact about me is that I have two brothers.
-
-<details markdown="1">
-<summary>Click here!</summary>
-Here you can see an **expandable** section
-</details>
