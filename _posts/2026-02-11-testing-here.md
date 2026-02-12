@@ -2,7 +2,6 @@
 layout: post
 title: Why am I taking Electronic Textiles?
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 mathjax: true
 author: Judy
