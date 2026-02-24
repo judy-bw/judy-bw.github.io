@@ -10,15 +10,17 @@ author: Judy
 {: .box-success}
 ## This is a post to show you my embroidery sampler!
 
-This week, our sewing assignment was to make an embroidery sampler! This took a lot of time, but was very relaxing. Here's a photo of the front:
+This week, our sewing assignment was to make an embroidery sampler! This took a lot of time, but was very relaxing. 
+
+###Here's a photo of the front:
 
 ![Embroidery](/assets/img/IMG_1874.jpg)
 
-Here's a zoom in on the embroidery details:
+###Here's a zoom in on the embroidery details:
 
 ![Embroidery](/assets/img/IMG_1879.jpg)
 
-And here's the back!
+###And here's the back!
 
 ![Embroidery](/assets/img/IMG_1875.jpg)
 
