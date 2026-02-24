@@ -20,6 +20,6 @@ Here's a zoom in on the embroidery details:
 
 And here's the back!
 
-![Embroidery](/assets/img/IMG_1876.jpg)
+![Embroidery](/assets/img/IMG_1875.jpg)
 
 If I were to do this again, I would advise myself to double check the stitching on the edge! I sort of just decided that I had to do blanket stitch on the whole edge, even though that wasn't true. 
