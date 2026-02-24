@@ -16,3 +16,4 @@ Here's a photo of the output if you input 60 degrees.
 
 ![Embroidery](/assets/img/Screenshot.png)
 
+A tip I would give myself is to make sure to remember to include every integer, even those below -50 degrees, the first time around. 
