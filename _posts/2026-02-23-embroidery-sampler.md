@@ -16,6 +16,10 @@ This week, our sewing assignment was to make an embroidery sampler! This took a 
 
 Here's a zoom in on the embroidery details:
 
+![Embroidery](/assets/img/IMG_1879.jpg)
+
 And here's the back!
+
+![Embroidery](/assets/img/IMG_1876.jpg)
 
 If I were to do this again, I would advise myself to double check the stitching on the edge! I sort of just decided that I had to do blanket stitch on the whole edge, even though that wasn't true. 
