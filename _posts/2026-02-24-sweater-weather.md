@@ -14,10 +14,5 @@ For this assignment, we were practicing if...else statements. So, we had to make
 
 Here's a photo of the output if you input 60 degrees. 
 
-![Embroidery](/assets/img/embroidery-summer.jpeg)
+![Embroidery](/assets/img/Screenshot.png)
 
-I do not have any programming experience, except for one Python class in 9th grade. 
-
-In this class, I hope to learn how to make textiles light up!
-
-One boring fact about me is that I have two brothers.
