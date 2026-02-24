@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why am I taking Electronic Textiles?
+title: Sweater Weather Assignment
 gh-repo: daattali/beautiful-jekyll
 comments: true
 mathjax: true
@@ -8,9 +8,11 @@ author: Judy
 ---
 
 {: .box-success}
-## This is a post to show you why I decided to take Electronic Textiles!
+## This is a post to show you my Sweater Weather assignment!
 
-My name is Judy and I'm a freshman at Williams College. I'm a potential **Art History** or **English** major! I do not have much sewing experience, but over the summer I made an embroidery sampler and turned it into a pillow! Here's a photo:
+For this assignment, we were practicing if...else statements. So, we had to make a "thermometer" that would print out a message for any given temperature input. 
+
+Here's a photo of the output if you input 60 degrees. 
 
 ![Embroidery](/assets/img/embroidery-summer.jpeg)
 
