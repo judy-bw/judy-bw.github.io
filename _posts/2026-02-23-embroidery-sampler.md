@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why am I taking Electronic Textiles?
+title: My first embroidery project!
 gh-repo: daattali/beautiful-jekyll
 comments: true
 mathjax: true
@@ -8,7 +8,7 @@ author: Judy
 ---
 
 {: .box-success}
-## This is a post to show you why I decided to take Electronic Textiles!
+## This is a post to show you my embroidery sampler!
 
 My name is Judy and I'm a freshman at Williams College. I'm a potential **Art History** or **English** major! I do not have much sewing experience, but over the summer I made an embroidery sampler and turned it into a pillow! Here's a photo:
 
