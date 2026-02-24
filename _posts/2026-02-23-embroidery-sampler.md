@@ -12,7 +12,7 @@ author: Judy
 
 This week, our sewing assignment was to make an embroidery sampler! This took a lot of time, but was very relaxing. Here's a photo of the front:
 
-![Embroidery](/assets/img/IMG_1874.jpeg)
+![Embroidery](/assets/img/IMG_1874.jpg)
 
 Here's a zoom in on the embroidery details:
 
