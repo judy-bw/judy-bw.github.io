@@ -10,12 +10,12 @@ author: Judy
 {: .box-success}
 ## This is a post to show you my embroidery sampler!
 
-My name is Judy and I'm a freshman at Williams College. I'm a potential **Art History** or **English** major! I do not have much sewing experience, but over the summer I made an embroidery sampler and turned it into a pillow! Here's a photo:
+This week, our sewing assignment was to make an embroidery sampler! This took a lot of time, but was very relaxing. Here's a photo of the front:
 
 ![Embroidery](/assets/img/embroidery-summer.jpeg)
 
-I do not have any programming experience, except for one Python class in 9th grade. 
+Here's a zoom in on the embroidery details:
 
-In this class, I hope to learn how to make textiles light up!
+And here's the back!
 
-One boring fact about me is that I have two brothers.
+If I were to do this again, I would advise myself to double check the stitching on the edge! I sort of just decided that I had to do blanket stitch on the whole edge, even though that wasn't true. 
