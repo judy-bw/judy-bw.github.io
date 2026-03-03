@@ -17,7 +17,7 @@ Here's a photo of the front:
 The back:
 ![Plush](/assets/img/IMG_0502.JPG)
 
-The circuits:
+The protoype with banana clips and wires:
 ![Plush](/assets/img/IMG_0501.JPG)
 
 And the paper!
