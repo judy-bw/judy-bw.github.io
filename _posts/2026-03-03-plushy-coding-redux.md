@@ -14,6 +14,6 @@ For this assignment, we were practicing nested if...else statements. So, we had 
 
 Here's a photo of the output if you input . 
 
-![Embroidery](/assets/img/Screenshot.png)
+![code](/assets/img/march_3_screenshot.PNG)
 
-A tip I would give myself is to make sure to remember to include every integer, even those below -50 degrees, the first time around. 
+A tip I would give myself is to make sure to to think through all of the if..else statements I would need sooner. 
