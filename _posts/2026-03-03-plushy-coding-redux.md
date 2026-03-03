@@ -12,7 +12,7 @@ author: Judy
 
 For this assignment, we were practicing nested if...else statements. So, we had to make a program in C that would make the same effect as our plushies. We had two integer vairables, representing the button and switch. If the button and switch were both on, this is what should print:
 
-Here's a photo of the output if you input . 
+Here's a photo of the output if you input that the button is on and the switch is on. 
 
 ![code](/assets/img/march_3_screenshot.PNG)
 
