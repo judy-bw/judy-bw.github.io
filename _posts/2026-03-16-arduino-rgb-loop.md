@@ -16,7 +16,7 @@ Here's a photo of the arduino flashing red on the 10th run through:
 ![arduino-1](/assets/img/IMG_0604.JPG)
 Then flashing nothing on the 11th-19th run throughs:
 ![arduino-2](/assets/img/IMG_0603.JPG)
-Then flashing green on the 30th run through:
+Then flashing green on the 40th run through:
 ![arduino-2](/assets/img/IMG_0605.JPG)
 
 
