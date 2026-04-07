@@ -13,9 +13,8 @@ author: Judy
 For this assignment, we had to take the three separate files from our last assignment and turn it into one file, where all three sparklies run simultaneously. 
 
 
-First, I made a file called flashbulb. Here, we wanted the arduino LED to flash on every four seconds, for one second.
-Here's a photo:
+Here's a photo of two of my sparklies flashing at the same time on my Arduino!
+
 ![arduino-1](/assets/img/IMG_0724.JPG)
 
-
-A tip I would give myself is to make sure to look at the example code posted on GLOW earlier.
+A tip I would give myself is to make sure to make all of my variable names unique earlier.
