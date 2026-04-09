@@ -10,11 +10,11 @@ author: Judy
 {: .box-success}
 ## This is a post to show you my Random Colors assignment on my Arduino!
 
-For this assignment, we had to take the three separate files from our last assignment and turn it into one file, where all three sparklies run simultaneously. 
+For this assignment, we had to make a program on arduino where whenever we pressed the button on the arduino, a new RBG color would show up on the RGB LED.
 
 
-Here's a photo of two of my sparklies flashing at the same time on my Arduino!
+Here's a photo of my Arduino.
 
 ![arduino-1](/assets/img/IMG_0605.JPG)
 
-A tip I would give myself is to make sure to make all of my variable names unique earlier.
+A tip I would give myself is to make sure to look through the rubric sooner to find out that I should've been putting 256 as my max RGB value because the second value is exclusive. 
