@@ -16,4 +16,4 @@ Here's a photo of my Arduino with the room dark and cold enough for ghosts!
 
 ![arduino-on](/assets/img/IMG_0817.JPG)
 
-A TIP IS TBD
+A tip I would give myself is to go to TA hours earlier because Andrea is very helpful!
