@@ -15,15 +15,15 @@ My project is called "Judy's Light-Up FLower Power Purse." It's a hand-sewed fel
 I love Spring, and I love purses, so I thought I could make a Spring-inspired purse that would make the weather outside nicer and would be a good accessory.
 
 ## MATERIALS LIST
-1 LilyPad Arduino
-3 LilyPad LEDs (Pink)
-1 LilyPad Light Sensor
-1 LilyPad Buzzer
-Conductive Thread
-1 Metal Snap
-2 pieces 8” x 11” felt (pink, white)
-Embroidery Thread (Pink, Hot Pink)
-Thread, Scissors, Needle
+- 1 LilyPad Arduino
+- 3 LilyPad LEDs (Pink)
+- 1 LilyPad Light Sensor
+- 1 LilyPad Buzzer
+- Conductive Thread
+- 1 Metal Snap
+- 2 pieces 8” x 11” felt (pink, white)
+- Embroidery Thread (Pink, Hot Pink)
+- Thread, Scissors, Needle
 
 
 ## PHOTOS
