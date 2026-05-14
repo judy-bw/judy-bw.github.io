@@ -27,5 +27,9 @@ I love Spring, and I love purses, so I thought I could make a Spring-inspired pu
 
 
 ## PHOTOS
-![help-set-up](/assets/img/CSCI-103-Proposal.jpg)
+![help-set-up](/assets/img/IMG_0980.heic)
+![help-set-up](/assets/img/IMG_0990.JPG)
+![help-set-up](/assets/img/IMG_0997.JPG)
+
+
 
