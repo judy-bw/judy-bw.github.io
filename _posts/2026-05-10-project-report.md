@@ -27,19 +27,19 @@ I love Spring, and I love purses, so I thought I could make a Spring-inspired pu
 
 
 ## PHOTOS
-# ALLIGATOR CLIP PROTOTYPE
+### ALLIGATOR CLIP PROTOTYPE
 ![help-set-up](/assets/img/IMG_0990.JPG)
 
-# REVISED PAPER PROTOTYPES 
+### REVISED PAPER PROTOTYPES 
 JUST FOR NEGATIVE TRACES
 ![help-set-up](/assets/img/IMG_0997.JPG)
 FOR THE LIGHT SENSOR TO BE CONNECTED TO AN "A" PIN
 ![help-set-up](/assets/img/IMG_1088.JPG)
 
-# THE PROJECT WORKING
+### THE PROJECT WORKING
 TBD
 
-# TIPS TO MY PAST SELF
+## TIPS TO MY PAST SELF
 1. Make sure to really think through the 3D circuitry
 
 
