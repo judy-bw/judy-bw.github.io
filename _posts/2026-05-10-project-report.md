@@ -42,4 +42,4 @@ TBD
 ## TIPS TO MY PAST SELF
 1. Make sure to really think through the 3D circuitry
 
-
+## CITATIONS
