@@ -28,7 +28,10 @@ I love Spring, and I love purses, so I thought I could make a Spring-inspired pu
 
 ## PHOTOS
 ![help-set-up](/assets/img/IMG_0980.heic)
+## ALLIGATOR CLIP PROTOTYPE
 ![help-set-up](/assets/img/IMG_0990.JPG)
+
+## REVISED PAPER PROTOTYPE FOR NEGATIVE TRACES
 ![help-set-up](/assets/img/IMG_0997.JPG)
 
 
