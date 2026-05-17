@@ -45,4 +45,5 @@ TBD
 3. I think if I was to do this project again, I would figure out some way to hide the light sensor more. By the time I thought about maybe putting it so it would get light when the purse was open, I was too late in sewing to really figure that out.
 
 ## CITATIONS
+1. https://projecthub.arduino.cc/tmekinyan/playing-popular-songs-with-arduino-and-a-buzzer-546f4a
 
