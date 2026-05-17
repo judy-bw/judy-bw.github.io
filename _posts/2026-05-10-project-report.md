@@ -40,6 +40,9 @@ FOR THE LIGHT SENSOR TO BE CONNECTED TO AN "A" PIN
 TBD
 
 ## TIPS TO MY PAST SELF
-1. Make sure to really think through the 3D circuitry
+1. Make sure to really think through the 3D circuitry. Sometimes even with the paper prototype, I would still get confused about which side of the fabric something was supposed to go on.
+2. Make sure you understand the role that having the snap closed versus open will have on the connection of all of the negative traces. I had to really think this thorough (as you can see in my diagram above).
+3. I think if I was to do this project again, I would figure out some way to hide the light sensor more. By the time I thought about maybe putting it so it would get light when the purse was open, I was too late in sewing to really figure that out.
 
 ## CITATIONS
+
