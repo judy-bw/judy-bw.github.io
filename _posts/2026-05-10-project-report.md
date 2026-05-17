@@ -31,7 +31,8 @@ I love Spring, and I love purses, so I thought I could make a Spring-inspired pu
 ![help-set-up](/assets/img/IMG_0990.JPG)
 
 ### REVISED PAPER PROTOTYPES 
-JUST FOR NEGATIVE TRACES
+JUST FOR NEGATIVE TRACES 
+(I know the + to + connection isn't right, I was just simplifying to focus on the negative traces)
 ![help-set-up](/assets/img/IMG_0997.JPG)
 FOR THE LIGHT SENSOR TO BE CONNECTED TO AN "A" PIN
 ![help-set-up](/assets/img/IMG_1088.jpg)
