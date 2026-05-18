@@ -38,7 +38,8 @@ FOR THE LIGHT SENSOR TO BE CONNECTED TO AN "A" PIN
 ![help-set-up](/assets/img/IMG_1088.jpg)
 
 ### THE PROJECT WORKING
-TBD
+![purse-gif](/assets/img/purse-3.gif)
+
 
 ## TIPS TO MY PAST SELF
 1. Make sure to really think through the 3D circuitry. Sometimes even with the paper prototype, I would still get confused about which side of the fabric something was supposed to go on.
